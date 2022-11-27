@@ -65,7 +65,7 @@ main > section {
 }
 
 .btn-blue {
-    background-color: rgba(0,158,227, 0.78);
+    background-color: #17da37;
     box-shadow: 0 -2px 0 rgba(0, 0, 0, 0.15) inset;
     padding: 15px 55px;
     color: #fff;
@@ -78,7 +78,7 @@ main > section {
 }
 
 .bg-blue {
-    background-color: #009EE3;
+    background-color: #17da37;
 }
 
 /* Sweep To Right */
@@ -148,7 +148,7 @@ main > section {
 }
 
 .btn-effect:hover, .btn-effect:focus, .btn-effect:active {
-	color: #009EE3;
+	color: #17da37;
 }
 
 .btn-effect:hover:before, .btn-effect:focus:before, .btn-effect:active:before {
@@ -179,7 +179,7 @@ main > section {
 }
 
 .sec-title h2:after {
-    border-bottom: 1px solid #009ee3;
+    border-bottom: 1px solid #17da37;
     content: "";
     display: block;
     left: 45%;
@@ -494,14 +494,14 @@ h1.navbar-brand {
 }
 
 .fancybox-next span {
-    background: url("../img/right.png") no-repeat scroll center center #009ee3;
+    background: url("../img/right.png") no-repeat scroll center center #17da37;
     height: 50px;
     width: 50px;
     right: 0;
 }
 
 .fancybox-prev span {
-    background: url("../img/left.png") no-repeat scroll center center #009ee3;
+    background: url("../img/left.png") no-repeat scroll center center #17da37;
     height: 50px;
     width: 50px;
     left: 0;
@@ -512,7 +512,7 @@ h1.navbar-brand {
 ==================================================================*/
 
 #about {
-    background-color: #009EE3;
+    background-color: #17da37;
     color: #fff;
 }
 
@@ -622,9 +622,9 @@ h1.navbar-brand {
 }
 
 .service-item:hover .service-icon {
-    border: 3px solid #009ee3;
+    border: 3px solid #17da37;
     margin-bottom: 20px;
-    color: #009ee3;
+    color: #17da37;
 }
 
 .service-icon i {
@@ -721,7 +721,7 @@ ul.external li a {
 }
 
 ul.external li a:hover {
-    background-color: #009EE3;
+    background-color: #17da37;
     color: #fff;
 }
 
@@ -767,7 +767,8 @@ ul.external li a:hover {
 }
 
 #testimonials .overlay {
-    background-color: rgba(15,155,224, 0.78);
+    /* background-color: rgba(15,155,224, 0.78); */
+    background-color: #17da37;
     padding: 70px 0 40px;
 }
 
@@ -864,7 +865,7 @@ ul.external li a:hover {
 }
 
 .price-table.featured .value {
-    background-color: #009EE3;
+    background-color: #17da37;
     color: #fff;
 }
 
@@ -913,7 +914,7 @@ ul.external li a:hover {
 
 .price-table.featured ul li:last-child,
 .price-table ul li:last-child:hover {
-    background-color: #009EE3;
+    background-color: #17da37;
 }
 
 .price-table.featured ul li:last-child a,
@@ -968,8 +969,8 @@ ul.external li a:hover {
 }
 
 .social-button li a:hover {
-    color: #008ECC;
-    border: 2px solid #008ECC;
+    color: #119c28;
+    border: 2px solid #119c28;
 }
 
 
@@ -1008,7 +1009,7 @@ textarea.form-control {
 }
 
 .contact-details h3 {
-    border-bottom: 1px solid #008ecc;
+    border-bottom: 1px solid #119c28;
     font-weight: 700;
     margin-bottom: 15px;
     padding-bottom: 15px;
@@ -1151,7 +1152,7 @@ textarea.form-control {
 }
 
 .footer-social ul li a:hover {
-    color: #009EE3;
+    color: #17da37;
 }
 
 .footer-content > p {
